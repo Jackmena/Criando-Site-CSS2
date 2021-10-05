@@ -4,8 +4,15 @@ h1{
 
 .date{
    font-family: Roboto;
+   color: #008080;
 }
 
 .post-content{
    font-family: Open Sans;
+}
+
+.box{
+   background-color: #fffafa;
+   width: 50%;
+   margin: 0px auto 50px auto;
 }
